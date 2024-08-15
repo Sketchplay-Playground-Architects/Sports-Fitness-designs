@@ -67,14 +67,6 @@ The Outdoor Football Stadium Night Render showcases a modern stadium design with
 ![Outdoor Fitness & Kids Playground](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Outdoor%20Fitness%20%26%20Kids%20Playground.jpg)
 Our Outdoor Fitness & Kids Playground combines fitness stations with play elements, creating a multifunctional space for families. It’s designed to promote active play and exercise for all age groups.
 
-## Skate Park Design
-![Skate Park Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Skate%20Park%20Design.jpg)
-The Skate Park Design features a variety of ramps, rails, and other elements for skaters. The layout is crafted to accommodate different skill levels and provide a challenging yet enjoyable experience.
-
-## Skatepark Design
-![Skatepark Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Skatepark%20Design.jpg)
-Our Skatepark Design includes a comprehensive range of skating features, designed to foster creativity and skill development in a dynamic environment.
-
 ## Sports & Fitness Design 2
 ![Sports & Fitness Design 2](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Sports%20%26%20Fitness%20Design%202.jpg)
 Sports & Fitness Design 2 focuses on integrating multiple fitness elements into a cohesive space. It offers a variety of workout stations and play features to cater to different fitness levels.
