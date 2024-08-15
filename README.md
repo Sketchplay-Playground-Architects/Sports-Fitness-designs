@@ -8,7 +8,7 @@ Welcome to our GITHUB gallery page: Sports & Fitness Designs. Here, you’ll fin
 Our Calisthenics Design features a versatile fitness area equipped with various exercise modules. It’s perfect for community parks, offering a range of workout options to support diverse fitness activities and encourage group workouts.
 
 ## Calisthenics Park Design
-![Calisthenics Park Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Calisthenics%20park%20design.jpg)
+![Calisthenics Park Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Calisthenics%20Park%20Design.jpg)
 Our Calisthenics Park Design integrates various exercise modules, creating a comprehensive fitness environment. This design is ideal for community parks, offering diverse workout options and encouraging group fitness activities.
 
 ## Climbing Pyramid Apparatus Design
@@ -64,7 +64,7 @@ Our Multi Functional Sports Pitch provides a versatile space for a wide range of
 The Outdoor Football Stadium Night Render showcases a modern stadium design with advanced lighting and seating arrangements. It’s designed to offer an exceptional experience for both players and spectators.
 
 ## Outdoor Fitness & Kids Playground
-![Outdoor Fitness & Kids Playground](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Outdoor%20fitness%20&%20kids%20playground.jpg)
+![Outdoor Fitness & Kids Playground](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Outdoor%20Fitness%20%26%20Kids%20Playground.jpg)
 Our Outdoor Fitness & Kids Playground combines fitness stations with play elements, creating a multifunctional space for families. It’s designed to promote active play and exercise for all age groups.
 
 ## Skate Park Design
@@ -76,21 +76,17 @@ The Skate Park Design features a variety of ramps, rails, and other elements for
 Our Skatepark Design includes a comprehensive range of skating features, designed to foster creativity and skill development in a dynamic environment.
 
 ## Sports & Fitness Design 2
-![Sports & Fitness Design 2](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Sports%20&%20Fitness%20Design%202.jpg)
+![Sports & Fitness Design 2](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Sports%20%26%20Fitness%20Design%202.jpg)
 Sports & Fitness Design 2 focuses on integrating multiple fitness elements into a cohesive space. It offers a variety of workout stations and play features to cater to different fitness levels.
 
 ## Explore Our Work:
-- **Playground Design Services:** [View our services](https://www.sketchplay.co.uk/playground-design-services?pgid=lt9wh4pw-2c6e0542-206a-485d-a166-75b64362f2c6)
+- **Playground Design Services:** [View our services](https://www.sketchplay.co.uk/playground-design-services)
 - **Sports & Fitness Designs Gallery:** [Browse our gallery](https://www.sketchplay.co.uk/sports-fitness-designs-gallery)
-
-## Request a Quote:
-- **Get a Quote:** [Request a quote for your playground project](https://www.sketchplay.co.uk/playground-quotes)
-
-Explore our work and discover how we transform spaces into engaging and functional environments!
+- **Get a Quote:** [Request a quote for your playground project](https://www.sketchplay.co.uk/request-quote)
 
 ## Connect with Us:
 - **Instagram:** [@sketchplayplaygroundarchitects](https://www.instagram.com/sketchplayplaygroundarchitects)
-- **YouTube:** [Sketchplay Playground Architects](https://www.youtube.com/@SketchplayPlaygroundArchitect)
+- **YouTube:** [Sketchplay Playground Architects](https://www.youtube.com/SketchplayPlaygroundArchitects)
 - **Pinterest:** [Sketchplay Playground Architects](https://www.pinterest.co.uk/sketchplayplaygroundarchitects)
 - **LinkedIn:** [Sketchplay Playground Architects](https://www.linkedin.com/company/sketchplay-playground-architects)
 - **Facebook:** [Sketchplay Playground Architects](https://www.facebook.com/sketchplay.playground.architects)
