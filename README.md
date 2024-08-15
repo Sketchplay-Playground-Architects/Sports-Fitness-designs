@@ -36,15 +36,15 @@ Our Kids Sports Arena Playground is designed to offer a dynamic and engaging env
 The Multi Skate Park Arena provides a range of skating features, from ramps to rails, designed to accommodate skaters of all skill levels. It’s a versatile space that promotes active play and skill development.
 
 ## Multi Functional Sports Pitch 2
-![Multi Functional Sports Pitch 2](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20Functional%20Sports%20Pitch%202.jpg)
+![Multi Functional Sports Pitch 2](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20functional%20Sports%20Pitch%202.jpg)
 Our Multi Functional Sports Pitch 2 is designed for various sports and activities, featuring adaptable surfaces and facilities. It’s ideal for community centers and schools looking to offer multiple sports options.
 
 ## Multi Functional Sports Pitch 3
-![Multi Functional Sports Pitch 3](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20Functional%20Sports%20Pitch%203.jpg)
+![Multi Functional Sports Pitch 3](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20functional%20Sports%20Pitch%203.jpg)
 This design presents a versatile sports pitch layout, accommodating a range of sports and recreational activities. The flexible design supports both individual and team sports.
 
 ## Multi Functional Sports Pitch 4
-![Multi Functional Sports Pitch 4](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20Functional%20Sports%20Pitch%204.jpg)
+![Multi Functional Sports Pitch 4](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20functional%20Sports%20Pitch%204.jpg)
 Our Multi Functional Sports Pitch 4 features a layout designed for multiple sports activities. It includes adaptable zones and surfaces to enhance the play experience for various sports.
 
 ## Multi Functional Sports Pitch 5
