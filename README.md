@@ -8,15 +8,15 @@ Welcome to our GITHUB gallery page: Sports & Fitness Designs. Here, you’ll fin
 Our Calisthenics Design features a versatile fitness area equipped with various exercise modules. It’s perfect for community parks, offering a range of workout options to support diverse fitness activities and encourage group workouts.
 
 ## Calisthenics Park Design
-![Calisthenics Park Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Calisthenics%20Park%20Design.jpg)
+![Calisthenics Park Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Calisthenics%20park%20design.jpg)
 Our Calisthenics Park Design integrates various exercise modules, creating a comprehensive fitness environment. This design is ideal for community parks, offering diverse workout options and encouraging group fitness activities.
 
 ## Climbing Pyramid Apparatus Design
-![Climbing Pyramid Apparatus Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Climbing%20Pyramid%20Apparatus%20Design.jpg)
+![Climbing Pyramid Apparatus Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Climbing%20pyramid%20aparatus%20design.jpg)
 The Climbing Pyramid Apparatus Design challenges climbers with its multi-level structure, fostering physical agility and problem-solving skills. The pyramid shape adds an adventurous element to fitness play, appealing to both children and adults.
 
 ## Hop Island Sports
-![Hop Island Sports](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Hop%20Island%20Sports.jpg)
+![Hop Island Sports](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Hop%20island%20sports.jpg)
 Hop Island Sports is designed to spark energetic play with interactive hopping zones and sports activities. This playful layout encourages physical activity through fun and engaging elements, perfect for community and school playgrounds.
 
 ## Kids Sports Arena Playground 2
