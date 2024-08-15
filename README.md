@@ -72,23 +72,27 @@ Our Outdoor Fitness & Kids Playground combines fitness stations with play elemen
 The Skate Park Design features a variety of ramps, rails, and other elements for skaters. The layout is crafted to accommodate different skill levels and provide a challenging yet enjoyable experience.
 
 ## Skatepark Design
-![Skatepark Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Skatepark%20Design%20.jpg)
+![Skatepark Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Skatepark%20Design.jpg)
 Our Skatepark Design includes a comprehensive range of skating features, designed to foster creativity and skill development in a dynamic environment.
 
 ## Sports & Fitness Design 2
 ![Sports & Fitness Design 2](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Sports%20%26%20Fitness%20Design%202.jpg)
 Sports & Fitness Design 2 focuses on integrating multiple fitness elements into a cohesive space. It offers a variety of workout stations and play features to cater to different fitness levels.
 
+---
+
 ## Explore Our Work:
-- **Playground Design Services:** [View our services](https://www.sketchplay.co.uk/playground-design-services)
-- **Sports & Fitness Designs Gallery:** [Browse our gallery](https://www.sketchplay.co.uk/sports-fitness-designs-gallery)
-- **Get a Quote:** [Request a quote for your playground project](https://www.sketchplay.co.uk/request-quote)
+- [Playground Design Services](https://www.sketchplay.co.uk/playground-design-services): View our services
+- [Sports & Fitness Designs Gallery](https://www.sketchplay.co.uk/sports-fitness-designs-gallery): Browse our gallery
+
+## Request a Quote:
+- [Get a Quote](https://www.sketchplay.co.uk/request-a-quote): Request a quote for your playground project
 
 ## Connect with Us:
-- **Instagram:** [@sketchplayplaygroundarchitects](https://www.instagram.com/sketchplayplaygroundarchitects)
-- **YouTube:** [Sketchplay Playground Architects](https://www.youtube.com/SketchplayPlaygroundArchitects)
-- **Pinterest:** [Sketchplay Playground Architects](https://www.pinterest.co.uk/sketchplayplaygroundarchitects)
-- **LinkedIn:** [Sketchplay Playground Architects](https://www.linkedin.com/company/sketchplay-playground-architects)
-- **Facebook:** [Sketchplay Playground Architects](https://www.facebook.com/sketchplay.playground.architects)
-- **Twitter:** [@SketchplayArch](https://twitter.com/SketchplayArch)
-- **TikTok:** [@sketchplayplayground](https://www.tiktok.com/@sketchplayplayground)
+- [Instagram](https://www.instagram.com/sketchplayplaygroundarchitects): @sketchplayplaygroundarchitects
+- [YouTube](https://www.youtube.com/@SketchplayPlaygroundArchitect): Sketchplay Playground Architects
+- [Pinterest](https://www.pinterest.com/sketchplayplaygroundarchitects): Sketchplay Playground Architects
+- [LinkedIn](https://www.linkedin.com/company/sketchplay-playground-architects): Sketchplay Playground Architects
+- [Facebook](https://www.facebook.com/sketchplay.playground.architects): Sketchplay Playground Architects
+- [Twitter](https://twitter.com/SketchplayArch): @SketchplayArch
+- [TikTok](https://www.tiktok.com/@sketchplayplayground): @sketchplayplayground
