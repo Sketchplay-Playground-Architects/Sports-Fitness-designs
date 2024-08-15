@@ -48,15 +48,15 @@ This design presents a versatile sports pitch layout, accommodating a range of s
 Our Multi Functional Sports Pitch 4 features a layout designed for multiple sports activities. It includes adaptable zones and surfaces to enhance the play experience for various sports.
 
 ## Multi Functional Sports Pitch 5
-![Multi Functional Sports Pitch 5](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20Functional%20Sports%20Pitch%205.jpg)
+![Multi Functional Sports Pitch 5](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20functional%20Sports%20Pitch%205.jpg)
 This sports pitch design offers a flexible space for diverse sporting activities. Its layout is tailored to accommodate various sports and events, making it suitable for different community needs.
 
 ## Multi Functional Sports Pitch 6
-![Multi Functional Sports Pitch 6](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20Functional%20Sports%20Pitch%206.jpg)
+![Multi Functional Sports Pitch 6](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20functional%20Sports%20Pitch%206.jpg)
 The Multi Functional Sports Pitch 6 features a design optimized for multiple sports and recreational uses. It includes various zones to support different types of physical activities.
 
 ## Multi Functional Sports Pitch
-![Multi Functional Sports Pitch](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20Functional%20Sports%20Pitch.jpg)
+![Multi Functional Sports Pitch](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Multi%20functional%20Sports%20Pitch.jpg)
 Our Multi Functional Sports Pitch provides a versatile space for a wide range of sports and activities. The design focuses on adaptability and functionality to meet diverse community needs.
 
 ## Outdoor Football Stadium Night Render
